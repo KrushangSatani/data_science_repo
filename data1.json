@@ -1,0 +1,122 @@
+[
+  {
+    "user_id": "user_1",
+    "timestamp": "2026-03-10T10:00:00Z",
+    "event": "page_view",
+    "page": "/home",
+    "duration_ms": 1500,
+    "session_id": "sess_1"
+  },
+  {
+    "user_id": "user_2",
+    "timestamp": "2026-03-10T10:01:10Z",
+    "event": "page_view",
+    "page": "/products",
+    "duration_ms": 5500,
+    "session_id": "sess_2"
+  },
+  {
+    "user_id": "user_1",
+    "timestamp": "2026-03-10T10:02:30Z",
+    "event": "page_view",
+    "page": "/products",
+    "duration_ms": 8000,
+    "session_id": "sess_1"
+  },
+  {
+    "user_id": "user_3",
+    "timestamp": "2026-03-10T10:03:00Z",
+    "event": "page_view",
+    "page": "/home",
+    "duration_ms": 1200,
+    "session_id": "sess_3"
+  },
+  {
+    "user_id": "user_1",
+    "timestamp": "2026-03-10T10:04:15Z",
+    "event": "add_to_cart",
+    "page": "/products",
+    "duration_ms": 2000,
+    "session_id": "sess_1"
+  },
+  {
+    "user_id": "user_2",
+    "timestamp": "2026-03-10T10:05:00Z",
+    "event": "page_view",
+    "page": "/cart",
+    "duration_ms": 3200,
+    "session_id": "sess_2"
+  },
+  {
+    "user_id": "user_4",
+    "timestamp": "2026-03-10T10:06:20Z",
+    "event": "page_view",
+    "page": "/home",
+    "duration_ms": 1800,
+    "session_id": "sess_4"
+  },
+  {
+    "user_id": "user_1",
+    "timestamp": "2026-03-10T10:07:00Z",
+    "event": "page_view",
+    "page": "/cart",
+    "duration_ms": 4100,
+    "session_id": "sess_1"
+  },
+  {
+    "user_id": "user_3",
+    "timestamp": "2026-03-10T10:08:40Z",
+    "event": "page_view",
+    "page": "/products",
+    "duration_ms": 6000,
+    "session_id": "sess_3"
+  },
+  {
+    "user_id": "user_4",
+    "timestamp": "2026-03-10T10:09:10Z",
+    "event": "page_view",
+    "page": "/products",
+    "duration_ms": 7500,
+    "session_id": "sess_4"
+  },
+  {
+    "user_id": "user_2",
+    "timestamp": "2026-03-10T10:10:00Z",
+    "event": "checkout",
+    "page": "/checkout",
+    "duration_ms": 10000,
+    "session_id": "sess_2"
+  },
+  {
+    "user_id": "user_5",
+    "timestamp": "2026-03-10T10:11:30Z",
+    "event": "page_view",
+    "page": "/home",
+    "duration_ms": 1300,
+    "session_id": "sess_5"
+  },
+  {
+    "user_id": "user_1",
+    "timestamp": "2026-03-10T10:12:00Z",
+    "event": "checkout",
+    "page": "/checkout",
+    "duration_ms": 12000,
+    "session_id": "sess_1"
+  },
+  {
+    "user_id": "user_3",
+    "timestamp": "2026-03-10T10:13:10Z",
+    "event": "add_to_cart",
+    "page": "/products",
+    "duration_ms": 2200,
+    "session_id": "sess_3"
+  },
+  {
+    "user_id": "user_5",
+    "timestamp": "2026-03-10T10:14:00Z",
+    "event": "page_view",
+    "page": "/pricing",
+    "duration_ms": 4000,
+    "session_id": "sess_5"
+  }
+]
